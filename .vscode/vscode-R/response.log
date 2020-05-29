@@ -1,1 +1,6 @@
 {"time":"2020-05-19 12:44:54","pid":3796,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpwxrrnB"} 
+{"time":"2020-05-21 19:52:55","pid":24244,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpCMXcp2"} 
+{"time":"2020-05-25 23:10:05","pid":14256,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpeQcPWU"} 
+{"time":"2020-05-26 14:06:17","pid":14256,"command":"dataview","source":"table","type":"json","title":"myCars","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpeQcPWU\\file37b02eef528.json"} 
+{"time":"2020-05-26 14:15:31","pid":14256,"command":"browser","url":"http://127.0.0.1:27053/library/base/html/scale.html"} 
+{"time":"2020-05-26 14:27:46","pid":14256,"command":"dataview","source":"table","type":"json","title":"myCars","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpeQcPWU\\file37b06b915deb.json"} 
