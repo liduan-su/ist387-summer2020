@@ -60,9 +60,9 @@ mtCarsSorted <- myCars[order(myCars$mpg),]
 
 # F. Which car has the highest hp? Use which.max( )
 myCars[which.max(myCars$hp),]
-#Maserati Bora 
+#Maserati Bora
 
-# G. Which car has the lowest hp? Use which.min( ) 
+# G. Which car has the lowest hp? Use which.min( )
 myCars[which.min(myCars$hp),]
 #Honda Civic
 

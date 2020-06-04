@@ -4,3 +4,8 @@
 {"time":"2020-05-26 14:06:17","pid":14256,"command":"dataview","source":"table","type":"json","title":"myCars","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpeQcPWU\\file37b02eef528.json"} 
 {"time":"2020-05-26 14:15:31","pid":14256,"command":"browser","url":"http://127.0.0.1:27053/library/base/html/scale.html"} 
 {"time":"2020-05-26 14:27:46","pid":14256,"command":"dataview","source":"table","type":"json","title":"myCars","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpeQcPWU\\file37b06b915deb.json"} 
+{"time":"2020-05-28 20:09:22","pid":21940,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpInJCI9"} 
+{"time":"2020-05-28 20:09:22","pid":21940,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpInJCI9"} 
+{"time":"2020-05-28 20:16:25","pid":21940,"command":"dataview","source":"table","type":"json","title":"myCars","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpInJCI9\\file55b44f1c744f.json"} 
+{"time":"2020-05-28 20:22:01","pid":24464,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\Rtmpum7fBV"} 
+{"time":"2020-05-28 20:22:01","pid":24464,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\Rtmpum7fBV"} 
