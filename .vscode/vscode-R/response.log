@@ -17,3 +17,6 @@
 {"time":"2020-06-04 15:28:11","pid":2784,"command":"dataview","source":"table","type":"json","title":"dfStates","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpA3xfeQ\\fileae055777e.json"} 
 {"time":"2020-06-04 15:41:57","pid":2784,"command":"browser","url":"http://127.0.0.1:31666/library/base/html/grep.html"} 
 {"time":"2020-06-04 15:45:35","pid":2784,"command":"dataview","source":"table","type":"json","title":"twitterStates","file":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\RtmpA3xfeQ\\fileae03e441c6f.json"} 
+{"time":"2020-06-04 19:54:32","pid":26316,"command":"attach","tempdir":"C:\\Users\\Sam_D\\AppData\\Local\\Temp\\Rtmp0UVb2x"} 
+{"time":"2020-06-04 19:54:33","pid":26316,"command":"browser","url":"http://127.0.0.1:28809/library/datasets/html/state.html"} 
+{"time":"2020-06-04 20:17:46","pid":26316,"command":"browser","url":"http://127.0.0.1:28809/library/base/html/scale.html"} 
