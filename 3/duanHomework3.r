@@ -24,7 +24,6 @@ cat('\014')  # Clear the console
 
 rm(list=ls()) # Clear user objects from the environment
 
-
 # Set working directory 
 
 #setwd("C:/Users/Sam_D/OneDrive - Syracuse University/Course/2-Sophomore/Summer 2020/IST 387/homework/3/") 

@@ -1,6 +1,6 @@
 popDensity <- function(pop, area){
     fixedPop <- pop * 1000
-    popDens <- pop/area
+    popDens <- fixedPop / area
     return(popDens)
 }
 dfStates77 <- state.x77

@@ -1,3 +1,2 @@
-the slates.csv file is from 
-https://raw.githubusercontent.com/CivilServiceUSA/us-states/master/data/states.csv
-https://github.com/CivilServiceUSA/
+# a note
+the slates.csv file is from [Github](https://raw.githubusercontent.com/CivilServiceUSA/us-states/master/data/states.csv) by [CivilServiceUSA](https://github.com/CivilServiceUSA/)
