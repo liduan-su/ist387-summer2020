@@ -41,4 +41,5 @@ vignettes/*.pdf
 # pkgdown site
 docs/
 
-.pdf
+#pdf document
+*.pdf
