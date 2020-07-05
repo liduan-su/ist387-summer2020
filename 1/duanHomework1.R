@@ -11,7 +11,7 @@
 # 3. I did this homework with help from <Name of another student> but did not cut and paste any code
 
 # Run these three functions to get a clean test of homework code
-#try(dev.off()) # Clear the graph window
+try(dev.off()) # Clear the graph window
 cat('\014')  # Clear the console
 rm(list=ls()) # Clear user objects from the environment
 
